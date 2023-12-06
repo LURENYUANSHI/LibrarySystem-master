@@ -32,9 +32,3 @@
 > 求打赏已买服务器继续折腾部署的问题
 
 
-![image](https://github.com/Mrzyang/LibrarySystem/blob/master/src/main/webapp/assets/images/github/alipay.png)
-
-    邮箱:   phpzy@foxmail.com  欢迎交流技术(应付作业的勿扰，该程序实现简单，个人时间有限)
-    CSDN:https://blog.csdn.net/qq_32388977
-    2018-4-14
-
